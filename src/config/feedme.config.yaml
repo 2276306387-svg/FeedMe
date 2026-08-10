@@ -9,7 +9,167 @@ settings:
 summary:
   contentMaxChars: 5000
   temperature: 0.3
-  maxTokens: 500
+  maxTokens: 500# FeedMe user-facing configuration.
+# Category display order follows the order below.
+
+settings:
+  defaultSource: all
+  maxItemsPerFeed: 20
+  dataPath: ./public/data
+  title: "FeedMe - AI资讯助手"
+  description: "AI驱动的轻量级RSS阅读器"
+
+summary:
+  contentMaxChars: 4000
+  temperature: 0.3
+  maxTokens: 200
+  unavailableMessages:
+    zh: 无法生成摘要。
+    en: Unable to generate summary.
+  prompt: |
+    你是专业的内容摘要专家，请用中文为文章生成简洁准确的摘要。
+    要求：
+    1. 抓住核心观点和关键信息
+    2. 语言清晰流畅，自然地道
+    3. 控制在100字以内
+    4. 保持客观，不添加个人观点
+    5. 如果内容为空或缺乏有用信息，不要编造细节
+    6. 如果源标题或内容是其他语言，用中文总结关键信息
+
+    Article title:
+    {{title}}
+
+    Article content:
+    {{content}}
+
+categories:
+  - id: tech
+    name:
+      zh: 科技资讯
+      en: Tech News
+  - id: ai
+    name:
+      zh: AI前沿
+      en: AI Frontier
+  - id: dev
+    name:
+      zh: 开发者
+      en: Developer
+  - id: blog
+    name:
+      zh: 独立博客
+      en: Blogs
+  - id: life
+    name:
+      zh: 生活方式
+      en: Lifestyle
+
+feeds:
+  # ===== 科技资讯 =====
+  - id: 36kr
+    name:
+      zh: 36氪
+      en: 36Kr
+    url: "https://36kr.com/feed"
+    category: tech
+  
+  - id: ithome
+    name:
+      zh: IT之家
+      en: IT Home
+    url: "https://www.ithome.com/rss/"
+    category: tech
+  
+  - id: geekpark
+    name:
+      zh: 极客公园
+      en: GeekPark
+    url: "https://www.geekpark.net/rss"
+    category: tech
+  
+  - id: sspai
+    name:
+      zh: 少数派
+      en: sspai
+    url: "https://sspai.com/feed"
+    category: tech
+
+  # ===== AI 前沿 =====
+  - id: jiqizhixin
+    name:
+      zh: 机器之心
+      en: JiQiZhiXin
+    url: "https://www.jiqizhixin.com/rss"
+    category: ai
+  
+  - id: qbitai
+    name:
+      zh: 量子位
+      en: QbitAI
+    url: "https://rsshub.app/qbitai"
+    category: ai
+
+  # ===== 开发者 =====
+  - id: ruanyifeng
+    name:
+      zh: 阮一峰的网络日志
+      en: Ruanyifeng Blog
+    url: "https://www.ruanyifeng.com/blog/atom.xml"
+    category: dev
+  
+  - id: coolshell
+    name:
+      zh: 酷壳 CoolShell
+      en: CoolShell
+    url: "https://coolshell.cn/feed"
+    category: dev
+  
+  - id: juejin-trending
+    name:
+      zh: 掘金热门
+      en: Juejin Trending
+    url: "https://rsshub.app/juejin/trending/all/weekly"
+    category: dev
+  
+  - id: infoq
+    name:
+      zh: "InfoQ 中文"
+      en: InfoQ CN
+    url: "https://rsshub.app/infoq/topic/1"
+    category: dev
+
+  # ===== 独立博客 =====
+  - id: baoyu
+    name:
+      zh: 宝玉的博客
+      en: Baoyu Blog
+    url: "https://baoyu.io/feed.xml"
+    category: blog
+  
+  - id: macshuo
+    name:
+      zh: MacTalk
+      en: MacTalk
+    url: "https://macshuo.com/?feed=rss2"
+    category: blog
+
+  # ===== 生活方式 =====
+  - id: zhihu-daily
+    name:
+      zh: 知乎日报
+      en: Zhihu Daily
+    url: "https://rsshub.app/zhihu/daily"
+    category: life
+  
+  - id: zhihu-hot
+    name:
+      zh: 知乎热榜
+      en: Zhihu Hot
+    url: "https://rsshub.app/zhihu/hot"
+    category: life
+    
+
+
   unavailableMessages:
     zh: 无法生成摘要。
     en: Unable to generate summary.
