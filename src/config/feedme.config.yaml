@@ -1,23 +1,10 @@
 # FeedMe user-facing configuration.
-# Category display order follows the order below.
+# Categories are ordered for the Chinese information workflow.
 
 settings:
-  defaultSource: hacker-news-best
-  maxItemsPerFeed: 30
-  dataPath: ./public/data
-
-summary:
-  contentMaxChars: 5000
-  temperature: 0.3
-  maxTokens: 500# FeedMe user-facing configuration.
-# Category display order follows the order below.
-
-settings:
-  defaultSource: all
+  defaultSource: 36kr
   maxItemsPerFeed: 20
   dataPath: ./public/data
-  title: "FeedMe - AI资讯助手"
-  description: "AI驱动的轻量级RSS阅读器"
 
 summary:
   contentMaxChars: 4000
@@ -27,14 +14,12 @@ summary:
     zh: 无法生成摘要。
     en: Unable to generate summary.
   prompt: |
-    你是专业的内容摘要专家，请用中文为文章生成简洁准确的摘要。
+    你是专业的内容摘要专家。请使用 {{summaryLanguage}} 为文章生成简洁、准确、自然的摘要。
     要求：
     1. 抓住核心观点和关键信息
-    2. 语言清晰流畅，自然地道
-    3. 控制在100字以内
-    4. 保持客观，不添加个人观点
-    5. 如果内容为空或缺乏有用信息，不要编造细节
-    6. 如果源标题或内容是其他语言，用中文总结关键信息
+    2. 控制在100字以内
+    3. 保持客观，不添加个人观点
+    4. 如果内容为空或缺乏有用信息，不要编造细节
 
     Article title:
     {{title}}
@@ -51,47 +36,52 @@ categories:
     name:
       zh: AI前沿
       en: AI Frontier
+  - id: gameMarketing
+    name:
+      zh: 游戏产业与营销
+      en: Game Industry and Marketing
   - id: dev
     name:
       zh: 开发者
       en: Developer
+  - id: hot
+    name:
+      zh: 通用热点
+      en: General Hot Topics
+  - id: videoCulture
+    name:
+      zh: 视频与流行文化
+      en: Video and Pop Culture
   - id: blog
     name:
       zh: 独立博客
-      en: Blogs
-  - id: life
-    name:
-      zh: 生活方式
-      en: Lifestyle
+      en: Independent Blogs
 
-feeds:
+sources:
   # ===== 科技资讯 =====
   - id: 36kr
     name:
       zh: 36氪
       en: 36Kr
-    url: "https://36kr.com/feed"
+    url: https://36kr.com/feed
     category: tech
-  
   - id: ithome
     name:
       zh: IT之家
       en: IT Home
-    url: "https://www.ithome.com/rss/"
+    url: https://www.ithome.com/rss/
     category: tech
-  
   - id: geekpark
     name:
       zh: 极客公园
       en: GeekPark
-    url: "https://www.geekpark.net/rss"
+    url: https://www.geekpark.net/rss
     category: tech
-  
   - id: sspai
     name:
       zh: 少数派
       en: sspai
-    url: "https://sspai.com/feed"
+    url: https://sspai.com/feed
     category: tech
 
   # ===== AI 前沿 =====
@@ -99,346 +89,129 @@ feeds:
     name:
       zh: 机器之心
       en: JiQiZhiXin
-    url: "https://www.jiqizhixin.com/rss"
+    url: https://www.jiqizhixin.com/rss
     category: ai
-  
   - id: qbitai
     name:
       zh: 量子位
       en: QbitAI
-    url: "https://rsshub.app/qbitai"
+    url: https://rsshub.app/qbitai
     category: ai
+  - id: openai-news
+    name:
+      zh: OpenAI 新闻
+      en: OpenAI News
+    url: https://openai.com/news/rss.xml
+    category: ai
+  - id: openai-engineering
+    name:
+      zh: OpenAI 工程
+      en: OpenAI Engineering
+    url: https://openai.com/news/engineering/rss.xml
+    category: ai
+
+  # ===== 游戏产业与营销 =====
+  - id: gamesindustry
+    name:
+      zh: GamesIndustry 游戏产业
+      en: GamesIndustry
+    url: https://www.gamesindustry.biz/feed
+    category: gameMarketing
+  - id: polygon-games
+    name:
+      zh: Polygon 游戏与文化
+      en: Polygon Games and Culture
+    url: https://www.polygon.com/rss/index.xml
+    category: gameMarketing
+  - id: rockpapershotgun
+    name:
+      zh: Rock Paper Shotgun
+      en: Rock Paper Shotgun
+    url: https://www.rockpapershotgun.com/feed
+    category: gameMarketing
 
   # ===== 开发者 =====
   - id: ruanyifeng
     name:
       zh: 阮一峰的网络日志
       en: Ruanyifeng Blog
-    url: "https://www.ruanyifeng.com/blog/atom.xml"
+    url: https://www.ruanyifeng.com/blog/atom.xml
     category: dev
-  
   - id: coolshell
     name:
       zh: 酷壳 CoolShell
       en: CoolShell
-    url: "https://coolshell.cn/feed"
+    url: https://coolshell.cn/feed
     category: dev
-  
   - id: juejin-trending
     name:
       zh: 掘金热门
       en: Juejin Trending
-    url: "https://rsshub.app/juejin/trending/all/weekly"
+    url: https://rsshub.app/juejin/trending/all/weekly
     category: dev
-  
-  - id: infoq
+  - id: github-trending
     name:
-      zh: "InfoQ 中文"
-      en: InfoQ CN
-    url: "https://rsshub.app/infoq/topic/1"
+      zh: GitHub 热门项目
+      en: GitHub Trending
+    url: https://rsshub.rssforever.com/github/trending/daily/any
     category: dev
+
+  # ===== 通用热点 =====
+  - id: zhihu-daily
+    name:
+      zh: 知乎日报
+      en: Zhihu Daily
+    url: https://rsshub.app/zhihu/daily
+    category: hot
+  - id: zhihu-hot
+    name:
+      zh: 知乎热榜
+      en: Zhihu Hot
+    url: https://rsshub.app/zhihu/hot
+    category: hot
+  - id: v2ex-hot
+    name:
+      zh: V2EX 热门
+      en: V2EX Hot
+    url: https://rsshub.rssforever.com/v2ex/topics/hot
+    category: hot
+  - id: linux-do-daily
+    name:
+      zh: LINUX DO 今日热门
+      en: LINUX DO Daily Top
+    url: https://linux.do/top.rss?period=daily
+    category: hot
+
+  # ===== 视频与流行文化 =====
+  - id: bilibili-popular
+    name:
+      zh: 哔哩哔哩热门
+      en: Bilibili Popular
+    url: https://rsshub.app/bilibili/popular
+    category: videoCulture
+  - id: bbc-entertainment
+    name:
+      zh: BBC 娱乐与艺术
+      en: BBC Entertainment and Arts
+    url: https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+    category: videoCulture
+  - id: the-verge
+    name:
+      zh: The Verge 科技文化
+      en: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    category: videoCulture
 
   # ===== 独立博客 =====
   - id: baoyu
     name:
       zh: 宝玉的博客
       en: Baoyu Blog
-    url: "https://baoyu.io/feed.xml"
+    url: https://baoyu.io/feed.xml
     category: blog
-  
   - id: macshuo
     name:
       zh: MacTalk
       en: MacTalk
-    url: "https://macshuo.com/?feed=rss2"
+    url: https://macshuo.com/?feed=rss2
     category: blog
-
-  # ===== 生活方式 =====
-  - id: zhihu-daily
-    name:
-      zh: 知乎日报
-      en: Zhihu Daily
-    url: "https://rsshub.app/zhihu/daily"
-    category: life
-  
-  - id: zhihu-hot
-    name:
-      zh: 知乎热榜
-      en: Zhihu Hot
-    url: "https://rsshub.app/zhihu/hot"
-    category: life
-    
-
-
-  unavailableMessages:
-    zh: 无法生成摘要。
-    en: Unable to generate summary.
-  prompt: |
-    You are a professional content summarizer. Generate a concise and accurate summary in {{summaryLanguage}}.
-    The summary should:
-    1. Capture the main points and key information.
-    2. Be clear, fluent, and natural in {{summaryLanguage}}.
-    3. Stay around 100 words or fewer.
-    4. Remain objective and avoid adding opinions.
-    5. If the content is empty or lacks useful information, do not invent details.
-    6. If the source title or content is in another language, summarize the key information in {{summaryLanguage}}.
-
-    Article title:
-    {{title}}
-
-    Article content:
-    {{content}}
-
-categories:
-  - id: techNews
-    name:
-      zh: 科技资讯
-      en: Tech News
-  - id: financeNews
-    name:
-      zh: 财经资讯
-      en: Finance News
-  - id: personalBlogs
-    name:
-      zh: 个人博客
-      en: Personal Blogs
-  - id: companyBlogs
-    name:
-      zh: 企业博客
-      en: Company Blogs
-  - id: openSource
-    name:
-      zh: 开源项目
-      en: Open Source
-  - id: research
-    name:
-      zh: 科研资讯
-      en: Research
-  - id: forums
-    name:
-      zh: 论坛
-      en: Forums
-  - id: anime
-    name:
-      zh: 番剧资讯
-      en: Anime
-  - id: sports
-    name:
-      zh: 体育资讯
-      en: Sports
-  - id: podcasts
-    name:
-      zh: 播客
-      en: Podcasts
-
-sources:
-  - id: hacker-news-best
-    name:
-      zh: Hacker News 近期最佳
-      en: Hacker News Best
-    url: https://hnrss.org/best
-    category: techNews
-  - id: hacker-news-daily-top-10
-    name:
-      zh: Hacker News 历史每日前十
-      en: Hacker News Daily Top 10
-    url: https://rsshub.rssforever.com/github/issue/headllines/hackernews-daily
-    category: techNews
-  - id: bloomberg-markets
-    name:
-      zh: Bloomberg Markets
-      en: Bloomberg Markets
-    url: https://feeds.bloomberg.com/markets/news.rss
-    category: financeNews
-  - id: bloomberg-technology
-    name:
-      zh: Bloomberg Technology
-      en: Bloomberg Technology
-    url: https://feeds.bloomberg.com/technology/news.rss
-    category: financeNews
-  - id: andrej-karpathy
-    name:
-      zh: Andrej Karpathy
-      en: Andrej Karpathy
-    url: https://karpathy.bearblog.dev/feed/
-    category: personalBlogs
-  - id: simon-willison
-    name:
-      zh: Simon Willison's Weblog
-      en: Simon Willison's Weblog
-    url: https://simonwillison.net/atom/everything/
-    category: personalBlogs
-  - id: mario-zechner
-    name:
-      zh: Mario Zechner's Blog
-      en: Mario Zechner's Blog
-    url: https://mariozechner.at/rss.xml
-    category: personalBlogs
-  - id: ruanyifeng
-    name:
-      zh: 阮一峰的个人网站
-      en: Ruanyifeng's Blog
-    url: http://www.ruanyifeng.com/blog/atom.xml
-    category: personalBlogs
-  - id: sebastian-raschka
-    name:
-      zh: Sebastian Raschka
-      en: Sebastian Raschka
-    url: https://sebastianraschka.com/rss_feed.xml
-    category: personalBlogs
-  - id: openai-news
-    name:
-      zh: OpenAI News
-      en: OpenAI News
-    url: https://openai.com/news/rss.xml
-    category: companyBlogs
-  - id: openai-engineering
-    name:
-      zh: OpenAI Engineering
-      en: OpenAI Engineering
-    url: https://openai.com/news/engineering/rss.xml
-    category: companyBlogs
-  - id: openai-research
-    name:
-      zh: OpenAI Research
-      en: OpenAI Research
-    url: https://openai.com/blog/rss.xml
-    category: companyBlogs
-  - id: anthropic-engineering
-    name:
-      zh: Anthropic 工程博客
-      en: Anthropic Engineering
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
-    category: companyBlogs
-  - id: anthropic-frontier-red-team
-    name:
-      zh: Anthropic Frontier Red Team
-      en: Anthropic Frontier Red Team
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml
-    category: companyBlogs
-  - id: anthropic-news
-    name:
-      zh: Anthropic 新闻
-      en: Anthropic News
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
-    category: companyBlogs
-  - id: anthropic-research
-    name:
-      zh: Anthropic 研究
-      en: Anthropic Research
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
-    category: companyBlogs
-  - id: claude-blog
-    name:
-      zh: Claude 博客
-      en: Claude Blog
-    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml
-    category: companyBlogs
-  - id: claude-code-changelog
-    name:
-      zh: Claude Code 更新日志
-      en: Claude Code Changelog
-    url: https://code.claude.com/docs/en/changelog/rss.xml
-    category: companyBlogs
-  - id: google-product-news
-    name:
-      zh: Google 产品和技术新闻
-      en: Google Product and Technology News
-    url: https://blog.google/rss/
-    category: companyBlogs
-  - id: google-developers-blog
-    name:
-      zh: Google 开发者博客
-      en: Google Developers Blog
-    url: https://rsshub.rssforever.com/google/developers/en
-    category: companyBlogs
-  - id: google-research-blog
-    name:
-      zh: Google 研究博客
-      en: Google Research Blog
-    url: https://rsshub.rssforever.com/google/research
-    category: companyBlogs
-  - id: google-deepmind
-    name:
-      zh: Google DeepMind
-      en: Google DeepMind
-    url: https://deepmind.google/blog/rss.xml
-    category: companyBlogs
-  - id: github-blog
-    name:
-      zh: Github 博客
-      en: GitHub Blog
-    url: https://github.blog/feed/
-    category: companyBlogs
-  - id: hugging-face-blog
-    name:
-      zh: Hugging Face 博客
-      en: Hugging Face Blog
-    url: https://rsshub.rssforever.com/huggingface/blog
-    category: companyBlogs
-  - id: microsoft-research
-    name:
-      zh: Microsoft Research
-      en: Microsoft Research
-    url: https://www.microsoft.com/en-us/research/feed/
-    category: companyBlogs
-  - id: github-trending-daily
-    name:
-      zh: Github 今日热门
-      en: GitHub Trending Today
-    url: https://rsshub.rssforever.com/github/trending/daily/any
-    category: openSource
-  - id: github-trending-weekly
-    name:
-      zh: Github 近一周热门
-      en: GitHub Trending This Week
-    url: https://rsshub.rssforever.com/github/trending/weekly/any
-    category: openSource
-  - id: hugging-face-daily-papers
-    name:
-      zh: Hugging Face 每日论文
-      en: Hugging Face Daily Papers
-    url: https://rsshub.rssforever.com/huggingface/daily-papers
-    category: research
-  - id: linux-do-daily-top
-    name:
-      zh: LINUX DO 今日热门
-      en: LINUX DO Daily Top
-    url: https://linux.do/top.rss?period=daily
-    category: forums
-  - id: linux-do-weekly-top
-    name:
-      zh: LINUX DO 近一周热门
-      en: LINUX DO Weekly Top
-    url: https://linux.do/top.rss?period=weekly
-    category: forums
-  - id: linux-do-monthly-top
-    name:
-      zh: LINUX DO 近一月热门
-      en: LINUX DO Monthly Top
-    url: https://linux.do/top.rss?period=monthly
-    category: forums
-  - id: v2ex-hot
-    name:
-      zh: V2EX 今日热门
-      en: V2EX Hot Today
-    url: https://rsshub.rssforever.com/v2ex/topics/hot
-    category: forums
-  - id: bangumi-monthly-popular
-    name:
-      zh: Bangumi 近一月热门
-      en: Bangumi Monthly Popular
-    url: https://rsshub.rssforever.com/bangumi.tv/anime/followrank
-    category: anime
-  - id: f1-news
-    name:
-      zh: F1 News
-      en: F1 News
-    url: https://www.formula1.com/content/fom-website/en/latest/all.xml
-    category: sports
-  - id: lex-fridman-podcast
-    name:
-      zh: Lex Fridman Podcast
-      en: Lex Fridman Podcast
-    url: https://lexfridman.com/feed/podcast/
-    category: podcasts
