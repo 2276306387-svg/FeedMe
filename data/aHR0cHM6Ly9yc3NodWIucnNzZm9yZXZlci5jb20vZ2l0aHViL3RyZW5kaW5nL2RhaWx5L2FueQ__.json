@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "openai/codex",
+      "link": "https://github.com/openai/codex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7ba8f5542a6aaaa7f9afc6d0dc729351fed9aea2b93bb5347d24d1a460c2ae50/openai/codex\" referrerpolicy=\"no-referrer\"><br>Lightweight coding agent that runs in your terminal<br><br>Language: Rust<br>Stars: 113166<br>Forks: 17348",
+      "contentSnippet": "Lightweight coding agent that runs in your terminal\nLanguage: Rust\nStars: 113166\nForks: 17348",
+      "creator": "openai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e285f6e806d1da4914a3ed1142416649a82c52cd13059665fbde08128c890d62/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 231856<br>Forks: 19788",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 231856\nForks: 19788",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/447637285501bca77b4214134d8ce7b763a36d7c51307899720afd54b356a9b0/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 242140<br>Forks: 36698",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 242140\nForks: 36698",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0fb292da09fcdaffd2a161378f3dfb97c77a9c86d5aebbbcf866d19edf5b6671/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 276147<br>Forks: 24694",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 276147\nForks: 24694",
+      "creator": "obra",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Wei-Shaw/sub2api",
+      "link": "https://github.com/Wei-Shaw/sub2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5a91f99552822237334e7727888269d0a9d30968785d26b9acfc197df807d1ff/Wei-Shaw/sub2api\" referrerpolicy=\"no-referrer\"><br>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。<br><br>Language: Go<br>Stars: 38769<br>Forks: 8037",
+      "contentSnippet": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。\nLanguage: Go\nStars: 38769\nForks: 8037",
+      "creator": "Wei-Shaw",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "makeplane/plane",
+      "link": "https://github.com/makeplane/plane",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/568098118/a2d75f51-b51a-4a79-9364-b04f3778102e\" referrerpolicy=\"no-referrer\"><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.<br><br>Language: TypeScript<br>Stars: 57190<br>Forks: 5439",
+      "contentSnippet": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.\nLanguage: TypeScript\nStars: 57190\nForks: 5439",
+      "creator": "makeplane",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "link": "https://github.com/n8n-io/n8n",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/193215554/df34b36d-279c-496c-91c2-959dd9c9f13d\" referrerpolicy=\"no-referrer\"><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.<br><br>Language: TypeScript<br>Stars: 201779<br>Forks: 60297",
+      "contentSnippet": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.\nLanguage: TypeScript\nStars: 201779\nForks: 60297",
+      "creator": "n8n-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9705e1d625f01bfc44bf40fac878d14bc98d8082f9d1613cb657c9a9aab24d59/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: Python<br>Stars: 142500<br>Forks: 22838",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: Python\nStars: 142500\nForks: 22838",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1248194723/027636c2-3777-4a45-b2f4-e64950b94a13\" referrerpolicy=\"no-referrer\"><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.<br><br>Language: Rust<br>Stars: 13824<br>Forks: 369",
+      "contentSnippet": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.\nLanguage: Rust\nStars: 13824\nForks: 369",
+      "creator": "AprilNEA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "modular/modular",
+      "link": "https://github.com/modular/modular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6c788feb2e8c549a16a0553f30b10b8487f9d7bb70f0d028c9c28995961a20d1/modular/modular\" referrerpolicy=\"no-referrer\"><br>The Modular Platform (includes MAX &amp; Mojo)<br><br>Language: Mojo<br>Stars: 28825<br>Forks: 3065",
+      "contentSnippet": "The Modular Platform (includes MAX & Mojo)\nLanguage: Mojo\nStars: 28825\nForks: 3065",
+      "creator": "modular",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d66ac78f015bb9f3f23b371715d5fc90c793b5fd52dbdf5b9311ba17d4f6c328/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 205263<br>Forks: 21005",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 205263\nForks: 21005",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mahlernim/google-timeline-visualizer",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/91499546ae215d3d8419a7b1a05b81fc02b42816ba70ea3ed83268fec5b1d7aa/mahlernim/google-timeline-visualizer\" referrerpolicy=\"no-referrer\"><br>Visualize your year in travel using your Google Location History (Timeline) data<br><br>Language: Kotlin<br>Stars: 2549<br>Forks: 299",
+      "contentSnippet": "Visualize your year in travel using your Google Location History (Timeline) data\nLanguage: Kotlin\nStars: 2549\nForks: 299",
+      "creator": "mahlernim",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ripienaar/free-for-dev",
+      "link": "https://github.com/ripienaar/free-for-dev",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2f80e6eef9651ac6905ccb1fa02e89ee43fa7011fed210baacd196bd779eadbb/ripienaar/free-for-dev\" referrerpolicy=\"no-referrer\"><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br><br>Language: HTML<br>Stars: 133857<br>Forks: 14026",
+      "contentSnippet": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev\nLanguage: HTML\nStars: 133857\nForks: 14026",
+      "creator": "ripienaar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/TypeScript",
+      "link": "https://github.com/microsoft/TypeScript",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a6aa04f97d296125b0164cb2b9425d7cfdbc6979d18d2c0bcf69e7be2718f057/microsoft/TypeScript\" referrerpolicy=\"no-referrer\"><br>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.<br><br>Language: Go<br>Stars: 110521<br>Forks: 13746",
+      "contentSnippet": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.\nLanguage: Go\nStars: 110521\nForks: 13746",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dbddb5a5d97fb3a502d60ced6cee906e70af942c09f96b89f5fe1deaf3d329a3/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 4637<br>Forks: 380",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 4637\nForks: 380",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26\" referrerpolicy=\"no-referrer\"><br>:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.<br><br>Language: Python<br>Stars: 38581<br>Forks: 3243",
+      "contentSnippet": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\nLanguage: Python\nStars: 38581\nForks: 3243",
+      "creator": "PostHog",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "link": "https://github.com/Tencent/AI-Infra-Guard",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dab6429e086519309da60758b42a10dcab58dba9f3ead1176fc84643ab3dd0a1/Tencent/AI-Infra-Guard\" referrerpolicy=\"no-referrer\"><br>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.<br><br>Language: Python<br>Stars: 5468<br>Forks: 518",
+      "contentSnippet": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.\nLanguage: Python\nStars: 5468\nForks: 518",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T21:56:18.526Z"
+}
