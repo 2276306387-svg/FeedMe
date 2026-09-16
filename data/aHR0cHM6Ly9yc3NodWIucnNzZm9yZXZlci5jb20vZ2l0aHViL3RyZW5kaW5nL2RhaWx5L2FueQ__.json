@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 27994<br>Forks: 2018",
+      "contentSnippet": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 27994\nForks: 2018",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "JustVugg/colibri",
+      "link": "https://github.com/JustVugg/colibri",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cc6b075615b037f3198d9b06191507a5640951a3c83c9a5a598e6e0396c60df8/JustVugg/colibri\" referrerpolicy=\"no-referrer\"><br>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦<br><br>Language: C<br>Stars: 33456<br>Forks: 3512",
+      "contentSnippet": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\nLanguage: C\nStars: 33456\nForks: 3512",
+      "creator": "JustVugg",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ever-co/ever-gauzy",
+      "link": "https://github.com/ever-co/ever-gauzy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/189829392/7a1e420b-43dd-4690-ae69-a167a2b571d7\" referrerpolicy=\"no-referrer\"><br>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co<br><br>Language: TypeScript<br>Stars: 6467<br>Forks: 1016",
+      "contentSnippet": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co\nLanguage: TypeScript\nStars: 6467\nForks: 1016",
+      "creator": "ever-co",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1206390571/fd6851a0-4e36-4541-a76c-2ad84935d0bc\" referrerpolicy=\"no-referrer\"><br>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br><br>Language: Python<br>Stars: 30629<br>Forks: 3676",
+      "contentSnippet": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.\nLanguage: Python\nStars: 30629\nForks: 3676",
+      "creator": "debpalash",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Homebrew/BrewUI",
+      "link": "https://github.com/Homebrew/BrewUI",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d6cbc48c8aa4211deb33acffb28113da77e1f12c01e8e8d348a9638ba8723115/Homebrew/BrewUI\" referrerpolicy=\"no-referrer\"><br>📺 Homebrew's official macOS GUI<br><br>Language: Swift<br>Stars: 1229<br>Forks: 25",
+      "contentSnippet": "📺 Homebrew's official macOS GUI\nLanguage: Swift\nStars: 1229\nForks: 25",
+      "creator": "Homebrew",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "link": "https://github.com/melgarafael/DeskcommCRM",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1223939135/976719c3-5d23-4dd9-a6b2-915229d2c325\" referrerpolicy=\"no-referrer\"><br>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.<br><br>Language: TypeScript<br>Stars: 2711<br>Forks: 669",
+      "contentSnippet": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.\nLanguage: TypeScript\nStars: 2711\nForks: 669",
+      "creator": "melgarafael",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alphaXiv/OpenResearch",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/14713db9350f0fc29c083f64fe00efe76235ee9201f2a48efcbbe9211b954fb7/alphaXiv/OpenResearch\" referrerpolicy=\"no-referrer\"><br>Turn your coding agents into research agents<br><br>Language: Rust<br>Stars: 3165<br>Forks: 217",
+      "contentSnippet": "Turn your coding agents into research agents\nLanguage: Rust\nStars: 3165\nForks: 217",
+      "creator": "alphaXiv",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "link": "https://github.com/NationalSecurityAgency/ghidra",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e565cfe75e79c8f722ac2648ce5b0d89a56e379abc513398024b7a1c24845367/NationalSecurityAgency/ghidra\" referrerpolicy=\"no-referrer\"><br>Ghidra is a software reverse engineering (SRE) framework<br><br>Language: Java<br>Stars: 76543<br>Forks: 8439",
+      "contentSnippet": "Ghidra is a software reverse engineering (SRE) framework\nLanguage: Java\nStars: 76543\nForks: 8439",
+      "creator": "NationalSecurityAgency",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "danny-avila/LibreChat",
+      "link": "https://github.com/danny-avila/LibreChat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5a9ccff5e4a67f9cd8fee38551e36ac2ff4bdf03845e6b2fad08acb1b7606140/danny-avila/LibreChat\" referrerpolicy=\"no-referrer\"><br>Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active<br><br>Language: TypeScript<br>Stars: 43721<br>Forks: 9017",
+      "contentSnippet": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active\nLanguage: TypeScript\nStars: 43721\nForks: 9017",
+      "creator": "danny-avila",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pacifio/atlas",
+      "link": "https://github.com/pacifio/atlas",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d8915dab1b72728433247faeb8078ed2f6dbf7f4dfbc8d44035f71c8f97b1c0e/pacifio/atlas\" referrerpolicy=\"no-referrer\"><br>Source control for agents. Use multiple coding agents, track their changes and query them in one place<br><br>Language: Rust<br>Stars: 4544<br>Forks: 277",
+      "contentSnippet": "Source control for agents. Use multiple coding agents, track their changes and query them in one place\nLanguage: Rust\nStars: 4544\nForks: 277",
+      "creator": "pacifio",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "MG1937/ASC",
+      "link": "https://github.com/MG1937/ASC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/863e322f51cf89f60dfe12743d4d396dc1508218dacbf6939a1fa530a51a1fb4/MG1937/ASC\" referrerpolicy=\"no-referrer\"><br>ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.<br><br>Language: Python<br>Stars: 1087<br>Forks: 190",
+      "contentSnippet": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.\nLanguage: Python\nStars: 1087\nForks: 190",
+      "creator": "MG1937",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5445f951be64eb8334b35f15bc9ad03b2849ff45e5fdc238ef6cf2f052793aa9/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 94648<br>Forks: 10054",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 94648\nForks: 10054",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tonhowtf/omniget",
+      "link": "https://github.com/tonhowtf/omniget",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1155787322/0502eadc-9518-4486-a96d-3b344eba7276\" referrerpolicy=\"no-referrer\"><br>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.<br><br>Language: Rust<br>Stars: 12706<br>Forks: 1092",
+      "contentSnippet": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.\nLanguage: Rust\nStars: 12706\nForks: 1092",
+      "creator": "tonhowtf",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "earendil-works/pi",
+      "link": "https://github.com/earendil-works/pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/33f90595d48e9e524ca77ec353892c0336e023acdba3a45c05f7d79d3cdc14e2/earendil-works/pi\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI<br><br>Language: TypeScript<br>Stars: 105582<br>Forks: 13273",
+      "contentSnippet": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI\nLanguage: TypeScript\nStars: 105582\nForks: 13273",
+      "creator": "earendil-works",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-15T18:14:02.077Z"
+}
