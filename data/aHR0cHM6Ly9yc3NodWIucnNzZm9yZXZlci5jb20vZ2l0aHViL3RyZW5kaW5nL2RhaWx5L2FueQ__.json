@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c303aa7713f21b9baa972f22e58e4dbf5162ad638d0d6f3998e95362643661e7/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 14199<br>Forks: 768",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 14199\nForks: 768",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/52a114c35616a149aead1019e6f3623eaddb6aa41036686ab15255011498b115/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146396<br>Forks: 23819",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146396\nForks: 23819",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d\" referrerpolicy=\"no-referrer\"><br>Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 36883<br>Forks: 2628",
+      "contentSnippet": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 36883\nForks: 2628",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0db43a0e1e80f38841b2a62a8ebc8b5ed6fa474cd244151a3bb2a1de4961cc78/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 262224<br>Forks: 39231",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 262224\nForks: 39231",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tencent/BrowserSkill",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/52f7a61c0edc0cdb0b72ead303fbe46ae2567bec2136d9397c69ac7b36f60a13/Tencent/BrowserSkill\" referrerpolicy=\"no-referrer\"><br>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.<br><br>Language: TypeScript<br>Stars: 5443<br>Forks: 377",
+      "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\nLanguage: TypeScript\nStars: 5443\nForks: 377",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/409f4ec7d41c19089f2def9bd5fe820735418f4401b2afe968b08f1d23fc9b07/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96512<br>Forks: 10201",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96512\nForks: 10201",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "TencentCloud/Octop",
+      "link": "https://github.com/TencentCloud/Octop",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a23e82f39e1cf362e0a9f7f9c165804c5c756528d47ac1f48f3ca16fe09dce5b/TencentCloud/Octop\" referrerpolicy=\"no-referrer\"><br>A smarter, self-hosted AI assistant — multi-user, multi-agent.<br><br>Language: Python<br>Stars: 4032<br>Forks: 416",
+      "contentSnippet": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nLanguage: Python\nStars: 4032\nForks: 416",
+      "creator": "TencentCloud",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fission-AI/OpenSpec",
+      "link": "https://github.com/Fission-AI/OpenSpec",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8ff908160b9933fbfb8eb616d469a136ebdf8e33e56cf26d3ac750d581c820a2/Fission-AI/OpenSpec\" referrerpolicy=\"no-referrer\"><br>Spec-driven development (SDD) for AI coding assistants.<br><br>Language: TypeScript<br>Stars: 69439<br>Forks: 4757",
+      "contentSnippet": "Spec-driven development (SDD) for AI coding assistants.\nLanguage: TypeScript\nStars: 69439\nForks: 4757",
+      "creator": "Fission-AI",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ankitects/anki",
+      "link": "https://github.com/ankitects/anki",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/959509842d47e457c10003f2ee197dfb0eb01101ac46e024a9c25d4c687ad29c/ankitects/anki\" referrerpolicy=\"no-referrer\"><br>Anki is a smart spaced repetition flashcard program<br><br>Language: Rust<br>Stars: 31245<br>Forks: 3238",
+      "contentSnippet": "Anki is a smart spaced repetition flashcard program\nLanguage: Rust\nStars: 31245\nForks: 3238",
+      "creator": "ankitects",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8788b25943680fe29a6ed680d1a5b0e403c4179b3d565d046790743d2640f068/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 24935<br>Forks: 2974",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 24935\nForks: 2974",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "supermemoryai/supermemory",
+      "link": "https://github.com/supermemoryai/supermemory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f4e227ce1a94a832ea50703a6ef728df1db42171ccab2a425cfbcc272ad9929d/supermemoryai/supermemory\" referrerpolicy=\"no-referrer\"><br>Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.<br><br>Language: TypeScript<br>Stars: 30384<br>Forks: 2646",
+      "contentSnippet": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.\nLanguage: TypeScript\nStars: 30384\nForks: 2646",
+      "creator": "supermemoryai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tradesdontlie/tradingview-mcp",
+      "link": "https://github.com/tradesdontlie/tradingview-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b286b21ce8e60b20ac04b321ac90bee5224d135b3f185c02463f74bf1243c094/tradesdontlie/tradingview-mcp\" referrerpolicy=\"no-referrer\"><br>AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation<br><br>Language: JavaScript<br>Stars: 6511<br>Forks: 2718",
+      "contentSnippet": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation\nLanguage: JavaScript\nStars: 6511\nForks: 2718",
+      "creator": "tradesdontlie",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "rustfs/rustfs",
+      "link": "https://github.com/rustfs/rustfs",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/722597620/0fa936a2-8164-4f53-867f-def4beb64b21\" referrerpolicy=\"no-referrer\"><br>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.<br><br>Language: Rust<br>Stars: 33226<br>Forks: 1486",
+      "contentSnippet": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.\nLanguage: Rust\nStars: 33226\nForks: 1486",
+      "creator": "rustfs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "supabase/supabase",
+      "link": "https://github.com/supabase/supabase",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/214587193/00f59f00-90a6-11eb-8764-f49e3f731458\" referrerpolicy=\"no-referrer\"><br>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.<br><br>Language: TypeScript<br>Stars: 110205<br>Forks: 14331",
+      "contentSnippet": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.\nLanguage: TypeScript\nStars: 110205\nForks: 14331",
+      "creator": "supabase",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "coder/coder",
+      "link": "https://github.com/coder/coder",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1\" referrerpolicy=\"no-referrer\"><br>Secure environments for developers and their agents<br><br>Language: Go<br>Stars: 15356<br>Forks: 1506",
+      "contentSnippet": "Secure environments for developers and their agents\nLanguage: Go\nStars: 15356\nForks: 1506",
+      "creator": "coder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ahmedkhaleel2004/gitdiagram",
+      "link": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/20fecf72aeac9e1a28c422bdfe2d1c2808646e1f9dcae45abcd09782ad6cff8d/ahmedkhaleel2004/gitdiagram\" referrerpolicy=\"no-referrer\"><br>Free, simple, fast interactive diagrams for any GitHub repository<br><br>Language: TypeScript<br>Stars: 16519<br>Forks: 1261",
+      "contentSnippet": "Free, simple, fast interactive diagrams for any GitHub repository\nLanguage: TypeScript\nStars: 16519\nForks: 1261",
+      "creator": "ahmedkhaleel2004",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "asciimoo/hister",
+      "link": "https://github.com/asciimoo/hister",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5f2276a13bb73369ad6562103940717dca6abe289b432525f7b14c247e42977e/asciimoo/hister\" referrerpolicy=\"no-referrer\"><br>Your own search engine<br><br>Language: Go<br>Stars: 5013<br>Forks: 210",
+      "contentSnippet": "Your own search engine\nLanguage: Go\nStars: 5013\nForks: 210",
+      "creator": "asciimoo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T05:55:57.677Z"
+}
