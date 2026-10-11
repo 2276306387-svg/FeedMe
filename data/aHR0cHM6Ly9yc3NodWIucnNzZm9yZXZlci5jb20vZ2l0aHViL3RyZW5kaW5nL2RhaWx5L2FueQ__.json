@@ -1,0 +1,191 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "morluto/rea",
+      "link": "https://github.com/morluto/rea",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1209966933/1a3fef9a-be4b-41f4-8830-a94c0e8288cc\" referrerpolicy=\"no-referrer\"><br>Reverse engineer anything with agents, from app behavior down to native binaries.<br><br>Language: TypeScript<br>Stars: 70700<br>Forks: 14821",
+      "contentSnippet": "Reverse engineer anything with agents, from app behavior down to native binaries.\nLanguage: TypeScript\nStars: 70700\nForks: 14821",
+      "creator": "morluto",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/878bc028d7ddcc22814c07a6a271dcb95beaaf76e8befe29cf78e743d2dd1a86/boykopovar/AnyPS5\" referrerpolicy=\"no-referrer\"><br>Tool for automatic PS5 executables porting to Linux and Windows<br><br>Language: C++<br>Stars: 26545<br>Forks: 2218",
+      "contentSnippet": "Tool for automatic PS5 executables porting to Linux and Windows\nLanguage: C++\nStars: 26545\nForks: 2218",
+      "creator": "boykopovar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fc63a2766c353e5df10b95edb826aa7d2adf66052079d8c59d1aeb7268029cdc/storytold/artcraft\" referrerpolicy=\"no-referrer\"><br>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers<br><br>Language: Rust<br>Stars: 14285<br>Forks: 2244",
+      "contentSnippet": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers\nLanguage: Rust\nStars: 14285\nForks: 2244",
+      "creator": "storytold",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/363d71a5c0a8989d39cf23b3d147806b3746de9edfd89fda36e3864f97ad6cc0/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 48871<br>Forks: 3090",
+      "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 48871\nForks: 3090",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mksglu/context-mode",
+      "link": "https://github.com/mksglu/context-mode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1e400593789b03bce45dda3b626e22c98eb8e646f446a9ef228e21bf14a43193/mksglu/context-mode\" referrerpolicy=\"no-referrer\"><br>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.<br><br>Language: TypeScript<br>Stars: 26277<br>Forks: 1891",
+      "contentSnippet": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.\nLanguage: TypeScript\nStars: 26277\nForks: 1891",
+      "creator": "mksglu",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/655d0cb30d3b62cbad519670be48fc076189a6e2b2c3ffdce36dcdcc07962122/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 284368<br>Forks: 23803",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 284368\nForks: 23803",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "flutter/flutter",
+      "link": "https://github.com/flutter/flutter",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1\" referrerpolicy=\"no-referrer\"><br>Flutter makes it easy and fast to build beautiful apps for mobile and beyond<br><br>Language: Dart<br>Stars: 179486<br>Forks: 33589",
+      "contentSnippet": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond\nLanguage: Dart\nStars: 179486\nForks: 33589",
+      "creator": "flutter",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/bf052e16c6878bf4e96cee8cd470663839ae49fd02df91beb7c422c2c823e685/tensorflow/tensorflow\" referrerpolicy=\"no-referrer\"><br>An Open Source Machine Learning Framework for Everyone<br><br>Language: C++<br>Stars: 200712<br>Forks: 78960",
+      "contentSnippet": "An Open Source Machine Learning Framework for Everyone\nLanguage: C++\nStars: 200712\nForks: 78960",
+      "creator": "tensorflow",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "hugohe3/ppt-master",
+      "link": "https://github.com/hugohe3/ppt-master",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f900ac88b1f8693a342baa90f85e56753ef407805070dde07af933d48606a967/hugohe3/ppt-master\" referrerpolicy=\"no-referrer\"><br>AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He<br><br>Language: Python<br>Stars: 59373<br>Forks: 4676",
+      "contentSnippet": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He\nLanguage: Python\nStars: 59373\nForks: 4676",
+      "creator": "hugohe3",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pytorch/pytorch",
+      "link": "https://github.com/pytorch/pytorch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a363f6b7a9832903bc7200088e45790f9e4c784bf02e4c054de07facff448d2a/pytorch/pytorch\" referrerpolicy=\"no-referrer\"><br>Tensors and Dynamic neural networks in Python with strong GPU acceleration<br><br>Language: Python<br>Stars: 104127<br>Forks: 31950",
+      "contentSnippet": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\nLanguage: Python\nStars: 104127\nForks: 31950",
+      "creator": "pytorch",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "huggingface/transformers",
+      "link": "https://github.com/huggingface/transformers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e\" referrerpolicy=\"no-referrer\"><br>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. <br><br>Language: Python<br>Stars: 167213<br>Forks: 34796",
+      "contentSnippet": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. \nLanguage: Python\nStars: 167213\nForks: 34796",
+      "creator": "huggingface",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/122f3993c191ffcf78bad0a89e2baa97ba14126b647e8892b84a4f993b5cba11/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 28777<br>Forks: 3276",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 28777\nForks: 3276",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ec021f047e978d959eabc383c51d4fb741d23b4ab9abad03d9f6ce353e72fd9/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 218203<br>Forks: 21978",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 218203\nForks: 21978",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-10T22:35:52.466Z"
+}
